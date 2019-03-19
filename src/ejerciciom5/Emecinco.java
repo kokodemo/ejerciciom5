@@ -17,7 +17,7 @@ public class Emecinco {
 			System.out.println("");
 		}
 	}
-
+//esto es otro cambio para ver si da error
 	static long[] rellenarfactorial(long x[]) {
 		for (int i = 1; i < x.length + 1; i++)
 			x[i - 1] = factorial(i);
